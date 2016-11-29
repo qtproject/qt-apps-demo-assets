@@ -1,0 +1,22 @@
+[
+    {
+        "Id": "titilliumweb",
+        "Name": "Titillium Web",
+        "QDocModule": "-",
+        "QtUsage": "Used by Qt demos",
+        "License": "SIL Open Font License 1.1",
+        "LicenseId": "OFL-1.1",
+        "LicenseFile": "TitilliumWeb-License.txt",
+        "Copyright": "Copyright (c) 2009-2011 by Accademia di Belle Arti di Urbino and students of MA course of Visual design. Some rights reserved."
+    },
+    {
+        "Id": "fontawesome",
+        "Name": "Font Awesome",
+        "QDocModule": "-",
+        "QtUsage": "Used by Qt demos",
+        "License": "SIL Open Font License 1.1",
+        "LicenseId": "OFL-1.1",
+        "LicenseFile": "fontawesome-webfont-license.txt",
+        "Copyright": "Copyright (c) 2016, Dave Gandy (http://fontawesome.io)"
+    }
+]
