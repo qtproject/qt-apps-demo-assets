@@ -18,5 +18,15 @@
         "LicenseId": "OFL-1.1",
         "LicenseFile": "fontawesome-webfont-license.txt",
         "Copyright": "Copyright (c) 2016, Dave Gandy (http://fontawesome.io)"
+    },
+    {
+        "Id": "lato",
+        "Name": "Lato",
+        "QDocModule": "-",
+        "QtUsage": "Used by Qt demos",
+        "License": "SIL Open Font License 1.1",
+        "LicenseId": "OFL-1.1",
+        "LicenseFile": "Lato-License.txt",
+        "Copyright": "Copyright (c) 2010-2014 by tyPoland Lukasz Dziedzic (team@latofonts.com)"
     }
 ]
